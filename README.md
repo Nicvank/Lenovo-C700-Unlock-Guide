@@ -39,6 +39,7 @@ fastboot flashing unlock
 输入后在5秒内按下音量+/-即可解锁
 
 具体流程可以查看视频：
+<https://www.bilibili.com/video/BV1hnY36PE5j/?share_source=copy_web&vd_source=232d3bee0f60dcc3e9ced3f8931544ee>
 
 ## Windows 驱动
 
